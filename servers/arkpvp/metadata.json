@@ -30,16 +30,21 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA"
+        "NA",
+        "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "KitPvP",
-        "UHC",
-        "Parkour"
+        "PvP"
     ],
     "primaryGameType": "PvP",
-    "website": "https://arkpvp.net",
+    "website": "https://arkpvp.net/",
     "store": "https://arkpvp.net/store",
+    "compliance": {
+        "termsOfService": "https://arkpvp.net/legal/terms",
+        "privacyPolicy": "https://arkpvp.net/legal/privacy"
+    },
+    "socials": {
+        "discord": "https://discord.gg/mHkZBS7t54"
+    },
     "crossplay": false
 }
